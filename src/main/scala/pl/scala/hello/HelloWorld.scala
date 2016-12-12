@@ -1,4 +1,4 @@
-package pl.zebek.hello
+package pl.scala.hello
 
 object HelloWorld {
   /* This is my first java program.

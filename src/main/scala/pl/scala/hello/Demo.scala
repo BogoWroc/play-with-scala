@@ -1,4 +1,4 @@
-package pl.zebek.hello
+package pl.scala.hello
 
 /**
   * Created by Bogumil on 03.12.2016.
